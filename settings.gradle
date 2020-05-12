@@ -1,0 +1,2 @@
+rootProject.name='Shimadas_WorkSpace'
+include ':app'
