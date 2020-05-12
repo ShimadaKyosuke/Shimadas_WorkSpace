@@ -18,8 +18,7 @@ public class MainActivity extends AppCompatActivity {
         final Button button = this.findViewById(R.id.button);
         button.setOnClickListener(new View.OnClickListener(){
             public void onClick(View v) {
-                Log.d("button","ボタン押されたよ");
-                Log.d("button","ボタン押されたよ");
+                Log.d("button","ボタン押されたよ");Log.d("button","ボタン押されたよ");
 
             }
 
