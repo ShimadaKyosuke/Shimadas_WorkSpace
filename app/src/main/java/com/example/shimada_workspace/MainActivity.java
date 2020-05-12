@@ -10,7 +10,6 @@ import android.widget.Button;
 import com.google.firebase.functions.FirebaseFunctions;
 
 public class MainActivity extends AppCompatActivity {
-    private FirebaseFunctions mFunctions;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -20,9 +19,6 @@ public class MainActivity extends AppCompatActivity {
         button.setOnClickListener(new View.OnClickListener(){
             public void onClick(View v) {
                 Log.d("button","ボタン押されたよ");
-
-                mFunctions = FirebaseFunctions.getInstance();
-
 
             }
 
