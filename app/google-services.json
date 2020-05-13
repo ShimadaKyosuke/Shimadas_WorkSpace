@@ -1,10 +1,48 @@
 {
   "project_info": {
-    "project_number": "125446656315",
-    "firebase_url": "https://shimadasworkspace-afb25.firebaseio.com",
-    "project_id": "shimadasworkspace-afb25",
-    "storage_bucket": "shimadasworkspace-afb25.appspot.com"
+    "project_number": "165517113463",
+    "firebase_url": "https://shimadasworkspace.firebaseio.com",
+    "project_id": "shimadasworkspace",
+    "storage_bucket": "shimadasworkspace.appspot.com"
   },
-  "client": [],
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165517113463:android:ace1f32878388828226e72",
+        "android_client_info": {
+          "package_name": "com.example.shimadas_workspace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165517113463-rt2bth4df823dj1pa210iokj6novs25u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shimadas_workspace",
+            "certificate_hash": "6ee491b4ec9dd4ce59e4891276eafd43059b4e2c"
+          }
+        },
+        {
+          "client_id": "165517113463-nsv3us79qupn80k6ks556uaulmbbarb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0SctFSGUoDam1OTVFPdUPrPWmQcy1cXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165517113463-nsv3us79qupn80k6ks556uaulmbbarb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
   "configuration_version": "1"
 }
