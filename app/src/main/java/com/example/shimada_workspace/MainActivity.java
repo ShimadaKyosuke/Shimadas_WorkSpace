@@ -21,6 +21,8 @@ public class MainActivity extends AppCompatActivity {
                 Log.d("button","ボタン押されたよ");Log.d("button","ボタン押されたよ");
                 Log.d("button","ボタン押されたよ");Log.d("button","ボタン押されたよ");
                 Log.d("button","ボタン押されたよ");Log.d("button","ボタン押されたよ");
+                Log.d("button","ボタン押されたよ");Log.d("button","ボタン押されたよ");
+
 
             }
 
