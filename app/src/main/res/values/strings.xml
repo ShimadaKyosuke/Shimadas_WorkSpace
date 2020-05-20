@@ -1,5 +1,10 @@
 <resources>
-    <string name="app_name">Shimada\'s_WorkSpace</string>
+    <string name="app_name">島田のあぷり</string>
     <string name="ボタン">ボタン</string>
     <string name="クリック">クリック</string>
+    <string name="画面２">登録画面</string>
+    <string name="戻る">戻る</string>
+    <string name="lNameRequest">姓を入力してください。</string>
+    <string name="fNameRequest">名を入力してください。</string>
+    <string name="regist">登録</string>
 </resources>
